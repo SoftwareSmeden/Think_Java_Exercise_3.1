@@ -10,7 +10,7 @@ public class Main {
         System.out.printf("%f", numberOne);
         System.out.printf("%d", numberTwo);
 
-        /* Fejlen i "System.out.printf("%f", numberOne);", skyldes at "%f" bruges til at vise "double" værdier (se billede 1).
-           Fejlen i "System.out.printf("%d", numberTwo);", skyldes af "%d" bruges til at vise "Int" værdier (se billede 2). */
+        /* Fejlen i "System.out.printf("%f", numberOne);", skyldes at "%f" bruges til at vise "double" værdier.
+           Fejlen i "System.out.printf("%d", numberTwo);", skyldes af "%d" bruges til at vise "Int" værdier. */
     }
 }
